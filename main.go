@@ -1,5 +1,8 @@
 package main
 
+// Followed Tutorial from Akhil Sharma:
+// https://www.youtube.com/@AkhilSharmaTech
+
 import (
 	"bufio"
 	"fmt"
